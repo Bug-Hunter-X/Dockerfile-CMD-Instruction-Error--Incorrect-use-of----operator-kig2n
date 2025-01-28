@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dockerfiles related to the CMD instruction and the use of the && operator to chain multiple commands.  The bug showcases an incorrect usage that leads to the command failing to execute correctly. The solution provides a corrected version demonstrating the proper way to execute multiple commands within a single CMD instruction.
